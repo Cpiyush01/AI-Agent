@@ -1,0 +1,14 @@
+# Maven
+ target/
+
+# Generated websites
+generated-sites/*
+!generated-sites/.gitkeep
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Environment files
+.env
